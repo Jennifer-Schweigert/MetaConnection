@@ -1,7 +1,6 @@
 # Gesundheitssektor – Corona Prozess
 
 
-
 In den folgenden Ordner finden Sie 4 Dateien:
 
 -	1x Die Prozesslandkarte Corona
