@@ -3,9 +3,17 @@
 In den folgenden Ordner finden Sie 4 Dateien:
 
   -1x die Prozesslandkarte Smart Factory Wartungsarbeiten
+
+
   -1x der Smart Factory Wartungsarbeiten als ZIP-Datei für BPMTouch
+
+
   -1x der Smart Factory Wartungsarbeiten als ZIP-Datei für Camunda
+
+
   -1x der Smart Factory Wartungsarbeiten als ZIP-Datei für Signavio
+
+
 
 Dieser Prozess beschreibt, wie eine Wartung durchgeführt, bearbeitet und protokolliert werden muss in einer Smart Factory. 
 
